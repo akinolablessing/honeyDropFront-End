@@ -77,7 +77,7 @@ const Index = () => {
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-blue-900 mb-4">Why Families Choose Us</h2>
           <p className="text-xl text-gray-700 max-w-2xl mx-auto">
-            Discover the pillars that make Stellar Scholars Hub the premier choice for quality education
+            Discover the pillars that make Honey Drop the premier choice for quality education
           </p>
         </div>
 
@@ -141,7 +141,7 @@ const Index = () => {
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-4xl font-bold text-blue-900 mb-8">Our Story of Excellence</h2>
             <p className="text-xl text-gray-700 leading-relaxed mb-8">
-              For over a decade, Stellar Scholars Hub has been at the forefront of educational innovation in Africa. 
+              For over a decade, Honey Drop has been at the forefront of educational innovation in Africa.
               Our journey began with a simple yet powerful vision: to create an institution where academic excellence 
               meets character development, producing graduates who make a positive impact in their communities.
             </p>
@@ -196,7 +196,8 @@ const Index = () => {
             <Button 
               onClick={() => navigate('/login')}
               variant="outline"
-              className="border-2 border-white text-white hover:bg-white/10 text-lg px-8 py-4 rounded-full shadow-lg transform hover:scale-105 transition-all duration-300"
+              className="border-2 border-white text-black hover:bg-white/10 text-lg px-8 py-4 rounded-full shadow-lg transform hover:scale-105 transition-all duration-300"
+
             >
               Student Login
             </Button>
